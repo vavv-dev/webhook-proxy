@@ -1,0 +1,21 @@
+# editorconfig.org
+root = true
+
+[*]
+max_line_length = 99
+
+[*.html]
+
+[*.js]
+
+[*.yml]
+
+[*.py]
+
+[*.vimrc]
+
+[*.vim]
+
+[*.go]
+
+[*.java]
